@@ -1,3 +1,9 @@
+# Assessment: Route Parameters
+
+*This repo is my solution for the Qualified Assessment for 5.6.5*
+
+*Complete an app that displays Todo lists for various users. Update anchor elements to React-specific link components. Add route components to all views for app. Use parameter tokens in route path so that UserTodosView.js can catch user.id with useParameters() and harness it with useEffect() to automatically load specific Todo list for each user selected in navigation.*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
